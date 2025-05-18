@@ -1,6 +1,7 @@
 # Book Mood 📚
 
-**Book Mood** is a Flutter application that recommends books based on your current emotional state. Select how you feel from a set of relatable moods and get personalized book suggestions to match. A clean UI, calming visuals, and a tailored reading list for every mood.
+**Book Mood** is a Flutter application that recommends books based on your current emotional state. Select how you feel from a set of relatable moods and get personalized book suggestions to match. 
+A clean UI, calming visuals, and a tailored reading list for every mood.
 
 ## 🌟 Features
 
@@ -20,7 +21,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/book_mood.git
+git clone https://github.com/bektas-sari/book_mood.git
 cd book_mood
 flutter pub get
 flutter run
