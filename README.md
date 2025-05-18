@@ -43,9 +43,6 @@ lib/
 
 MIT License
 
----
-
-> "Books that understand how you feel."
 
 ---
 
